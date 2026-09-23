@@ -1,0 +1,132 @@
+[2026/9/20 15:40:13] [Log] BrowserWindow created
+------------------
+[2026/9/20 15:40:13] [Log] BrowserWindow created
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("document.loadData") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("document.loadData") result: "{\"snap\":null,\"filePath\":\"C:\\\\Users\\\\11313\\\\Documents\\\\LearningNotes\\\\content\\\\PaperNotes\\\\week2\\\\DA-WAM.md\",\"backups\":null,\"shouldReadFromDisk\":false,\"windowCounts\":1}"
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("setting.getRecentFiles") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("setting.getRecentFiles") result: {"files":[{"name":"DA-WAM.md","path":"C:\\Users\\11313\\Documents\\LearningNotes\\content\\PaperNotes\\week2\\DA-WAM.md","date":1789890013096},{"name":"SKILL.md","path":"C:\\Users\\11313\\.codex\\skills\\paper-reader\\SKILL.md","date":1789886652044},{"name":"SKILL.md","path":"C:\\Users\\11313\\.codex\\skills\\daily-papers-review\\SKILL.md","date":1789886592412},{"name":"SKILL.md","path":"C:\\Users\\11313\\.codex\\skills\\daily-papers\\SKILL.md","date":1789886567050},{"name":"SKILL.md","path":"C:\\Users\\11313\\.codex\\skills\\paper-note-organizer\\SKILL.md","date":1789886533454},{"name":"openai.yaml","path":"C:\\Users\\11313\\.codex\\skills\\obsidian-markdown-notes\\agents\\openai.yaml","date":1789886518865},{"name":"WINDOWS.md","path":"C:\\Users\\11313\\.codex\\skills\\_shared\\WINDOWS.md","date":1789886093385},{"name":"周报_高煊_20260918.md","path":"C:\\Users\\11313\\Desktop\\周报_高煊_20260918.md","date":1789732586262},{"name":"周报_高煊_20260911.md","path":"C:\\Users\\11313\\Desktop\\周报_高煊_20260911.md","date":1789728869171},{"name":"DriveWorld_论文精读笔记.md","path":"C:\\Users\\11313\\Documents\\ChatGPT\\New project\\week2\\DriveWorld_论文精读笔记.md","date":1789614702626},{"name":"codex-web-gpt-diagnostics-2026-09-11.jsonl","path":"C:\\Users\\11313\\Downloads\\codex-web-gpt-diagnostics-2026-09-11\\codex-web-gpt-diagnostics-2026-09-11.jsonl","date":1789610398026},{"name":"SKILL.md","path":"C:\\Users\\11313\\Documents\\ChatGPT\\New project\\obsidian-markdown-notes-candidate\\SKILL.md","date":1789536773790},{"name":"SKILL.md","path":"C:\\Users\\11313\\.codex\\skills\\obsidian-markdown-notes\\SKILL.md","date":1789532371050},{"name":"扩散模型.md","path":"C:\\Users\\11313\\Desktop\\扩散模型.md","date":1789525883864},{"name":"论文阅读.md","path":"C:\\Users\\11313\\Desktop\\论文阅读.md","date":1789460422299},{"name":"README.md","path":"C:\\Users\\11313\\Documents\\ChatGPT\\New project\\autonomous_driving_safety_papers_2023_2026\\README.md","date":1789378029102},{"name":"settings.yaml","path":"C:\\Users\\11313\\.dsh\\settings.yaml","date":1789366441061},{"name":"cordis.patch.yml","path":"C:\\Users\\11313\\AppData\\Roaming\\DSH Desktop\\health-snapshots\\d887aa1fe882d88d9bc8c5d17cbb56fffffbf9428fab66b2a785a35cfe94d554\\slot-3\\cordis.patch.yml","date":1789366375194},{"name":"cordis.patch.yml","path":"C:\\Users\\11313\\AppData\\Local\\Packages\\OpenAI.Codex_2p2nqsd0c76g0\\LocalCache\\Local\\npm-cache\\_npx\\1e7f6d9597241db0\\node_modules\\@deepseek-ai\\dsh-acp-app\\cordis.patch.yml","date":1789366362147},{"name":"导师reply.md","path":"C:\\Users\\11313\\Desktop\\杂项\\导师reply.md","date":1789359017701},{"name":"博士生周报模板.md","path":"C:\\Users\\11313\\Desktop\\杂项\\博士生周报模板.md","date":1789359014057},{"name":"科研训练启动包.md","path":"C:\\Users\\11313\\Documents\\ChatGPT\\第一代智驾\\科研训练启动包.md","date":1789357194985},{"name":"周报_高煊_20260911_回复.md","path":"C:\\Users\\11313\\Downloads\\周报_高煊_20260911_回复.md","date":1789348646216},{"name":"分支 · 分支 · 论文内容概述.md","path":"C:\\Users\\11313\\Downloads\\分支 · 分支 · 论文内容概述.md","date":1789120238152},{"name":"DriveWorld-VLA 论文笔记报告.md","path":"C:\\Users\\11313\\Documents\\LearningNotes\\content\\week1\\DriveWorld-VLA 论文笔记报告.md","date":1789118819792},{"name":"博士生周报模板.md","path":"C:\\Users\\11313\\Desktop\\博士生周报模板.md","date":1789112756663},{"name":"deploy.yml","path":"C:\\Users\\11313\\Documents\\LearningNotes-\\.github\\workflows\\deploy.yml","date":1789111666672},{"name":"自动驾驶模块架构调研报告.md","path":"C:\\Users\\11313\\Documents\\Obsidian Vault\\自动驾驶模块架构调研报告.md","date":1789110170139},{"name":"第一代自动驾驶模块化架构调研报告.md","path":"C:\\Users\\11313\\Documents\\ChatGPT\\第一代智驾\\第一代自动驾驶模块化架构调研报告.md","date":1789110124602},{"name":"科研工作模板.md","path":"C:\\Users\\11313\\Documents\\Codex\\2026-09-10\\4-vla-1-2-3-4\\outputs\\科研工作模板.md","date":1789034817329}],"folders":[]}
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("document.hasDuplicateName") args: ["DA-WAM.md"]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("document.hasDuplicateName") result: false
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("document.setLastSync") args: ["2026-09-20T07:40:13.777Z"]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("document.setLastSync") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.setTitle") args: ["DA-WAM.md - Typora"]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("theme.setThemeSource") args: ["system"]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("theme.setThemeSource") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("setting.put") args: ["backgroundColor","#FFFFFF"]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("setting.put") args: ["isDarkMode",false]
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/9/20 15:40:13] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("document.getSnapWithValidation") args: [null]
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("document.getSnapWithValidation") result: "{\"snap\":null,\"shouldReadFromDisk\":false}"
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("setting.getDownloadingDicts") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("setting.getDownloadingDicts") result: "[]"
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("setting.getUserDictionaryPath") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("setting.getUserDictionaryPath") result: "C:\\Users\\11313\\AppData\\Roaming\\Typora\\typora-dictionaries"
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("setting.getUserDict") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("setting.getUserDict") result: "{}"
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .invoke("setting.getKeyBinding") args: []
+------------------
+[2026/9/20 15:40:14] [Log] [IPC] .handle("setting.getKeyBinding") result: {"_useLowerCase":true}
+------------------
+[2026/9/20 15:40:15] [Log] [IPC] .invoke("app.onCloseWin") args: [null]
+------------------
+[2026/9/20 15:40:15] [Log] [IPC] .handle("app.onCloseWin") result: 
+------------------

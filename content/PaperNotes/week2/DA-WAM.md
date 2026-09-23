@@ -15,14 +15,14 @@ created: 2026-09-20
 
 ## 元信息
 
-| 项目 | 内容 |
-|---|---|
-| 机构 | 香港科技大学（广州）、零跑汽车、香港科技大学 |
-| 日期 | arXiv v2：2026-08-20 |
-| 论文 | [arXiv HTML](https://arxiv.org/html/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) |
-| 代码 | [LeapWM/da-wam](https://github.com/LeapWM/da-wam)；截至笔记创建时仓库为占位 README，尚无实现 |
-| 本地附件 | Zotero ItemID 1411，PDF 附件位于 Zotero storage/NEZ7LUID |
-| 对比方向 | World4Drive、DriveFuture、Latent-WAM、DrivoR、DriveSuprim |
+| 项目   | 内容                                                                                        |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 机构   | 香港科技大学（广州）、零跑汽车、香港科技大学                                                                    |
+| 日期   | arXiv v2：2026-08-20                                                                       |
+| 论文   | [arXiv HTML](https://arxiv.org/html/2608.19085) · [PDF](https://arxiv.org/pdf/2608.19085) |
+| 代码   | [LeapWM/da-wam](https://github.com/LeapWM/da-wam)；截至笔记创建时仓库为占位 README，尚无实现                |
+| 本地附件 | Zotero ItemID 1411，PDF 附件位于 Zotero storage/NEZ7LUID                                       |
+| 对比方向 | World4Drive、DriveFuture、Latent-WAM、DrivoR、DriveSuprim                                     |
 
 ---
 
@@ -72,7 +72,7 @@ created: 2026-09-20
 
 ### 核心模块 1：持续更新的预测表征
 
-在线编码器的 LoRA 同时接收潜变量预测与规划损失的梯度。目标编码器通过 EMA 缓慢移动，训练期间保持预测目标相对稳定。与“先预训练、后冻结”的流程相比，表征可随轨迹选择任务调整。EMA 稳定目标的作用是作者的设计动机；仅凭规划分数不能单独证明其消除了所有表征坍塌风险。
+在线编码器的 LoRA 同时**接收潜变量预测与规划损失的梯度**（DriveWorld-VLA里的InternVL3也是）。目标编码器通过 EMA 缓慢移动，训练期间保持预测目标相对稳定。与“先预训练、后冻结”的流程相比，表征可随轨迹选择任务调整。EMA 稳定目标的作用是作者的设计动机；仅凭规划分数不能单独证明其消除了所有表征坍塌风险。
 
 ### 核心模块 2：候选专属[[反事实预测]]
 
