@@ -1,0 +1,39 @@
+{
+  "artifact_type": "deeppapernote_paper_directory",
+  "schema_version": 2,
+  "title": "ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving",
+  "note_stem": "ManeuverFlow",
+  "work": {
+    "title": "ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving",
+    "identifiers": {
+      "arxiv": "2610.13409"
+    },
+    "provenance": {
+      "arxiv": [
+        {
+          "kind": "canonical_identity",
+          "source_url": "https://arxiv.org/abs/2610.13409"
+        },
+        {
+          "kind": "pdf_first_page",
+          "source_sha256": "7f4b7fe94ef03bfe2ccb2e49a59fe2bf6590cc4e78072c1a296314fdcba46e4c"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "7f4b7fe94ef03bfe2ccb2e49a59fe2bf6590cc4e78072c1a296314fdcba46e4c": {
+      "notes": {
+        "zh-CN": {
+          "filename": "ManeuverFlow.zh-CN.md",
+          "note_sha256": "5dd047576cf0e239fbaa16563e948ab2c8d69224b733d327b3290bc0dbf3d310"
+        }
+      },
+      "note_stem": "ManeuverFlow",
+      "asset_subdir": "images",
+      "arxiv_id": "2610.13409v1",
+      "source_url": "https://arxiv.org/abs/2610.13409",
+      "pdf_url": "https://arxiv.org/pdf/2610.13409.pdf"
+    }
+  }
+}

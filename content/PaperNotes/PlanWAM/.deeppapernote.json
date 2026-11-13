@@ -1,0 +1,39 @@
+{
+  "artifact_type": "deeppapernote_paper_directory",
+  "schema_version": 2,
+  "title": "PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving",
+  "note_stem": "PlanWAM",
+  "work": {
+    "title": "PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving",
+    "identifiers": {
+      "arxiv": "2610.11382"
+    },
+    "provenance": {
+      "arxiv": [
+        {
+          "kind": "canonical_identity",
+          "source_url": "https://arxiv.org/abs/2610.11382"
+        },
+        {
+          "kind": "pdf_first_page",
+          "source_sha256": "309e0827303c4f7dc912649ee5652596493475c632fe72ae913d22831dc0c46e"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "309e0827303c4f7dc912649ee5652596493475c632fe72ae913d22831dc0c46e": {
+      "notes": {
+        "zh-CN": {
+          "filename": "PlanWAM.zh-CN.md",
+          "note_sha256": "16d07d7e187ee546ce57600863e20c44953d86cc0b983e5639bb98f8c7f10579"
+        }
+      },
+      "note_stem": "PlanWAM",
+      "asset_subdir": "images",
+      "arxiv_id": "2610.11382v1",
+      "source_url": "https://arxiv.org/abs/2610.11382",
+      "pdf_url": "https://arxiv.org/pdf/2610.11382.pdf"
+    }
+  }
+}

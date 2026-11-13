@@ -1,0 +1,39 @@
+{
+  "artifact_type": "deeppapernote_paper_directory",
+  "schema_version": 2,
+  "title": "Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving",
+  "note_stem": "RFWorld",
+  "work": {
+    "title": "",
+    "identifiers": {
+      "arxiv": "2611.05072"
+    },
+    "provenance": {
+      "arxiv": [
+        {
+          "kind": "canonical_identity",
+          "source_url": "https://arxiv.org/abs/2611.05072"
+        },
+        {
+          "kind": "pdf_first_page",
+          "source_sha256": "01a37ea89eca33046c00f31e57021941537ca883535751a256be388cc980f4f0"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "01a37ea89eca33046c00f31e57021941537ca883535751a256be388cc980f4f0": {
+      "notes": {
+        "zh-CN": {
+          "filename": "RFWorld.zh-CN.md",
+          "note_sha256": "452ecc024551b5ead034333a1262ffdca15dc299dc8ae5f6aae7b343772d8f73"
+        }
+      },
+      "note_stem": "RFWorld",
+      "asset_subdir": "images",
+      "arxiv_id": "2611.05072v1",
+      "source_url": "https://arxiv.org/abs/2611.05072",
+      "pdf_url": "https://arxiv.org/pdf/2611.05072.pdf"
+    }
+  }
+}

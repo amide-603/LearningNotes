@@ -1,0 +1,39 @@
+{
+  "artifact_type": "deeppapernote_paper_directory",
+  "schema_version": 2,
+  "title": "Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving",
+  "note_stem": "Expand-and-Prune",
+  "work": {
+    "title": "Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving",
+    "identifiers": {
+      "arxiv": "2610.23262"
+    },
+    "provenance": {
+      "arxiv": [
+        {
+          "kind": "canonical_identity",
+          "source_url": "https://arxiv.org/abs/2610.23262"
+        },
+        {
+          "kind": "pdf_first_page",
+          "source_sha256": "60d18cb2b3ea2226ac22eac2c6d93c8ac855ecb5afa09ab6d83ab64ceb3b75c3"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "60d18cb2b3ea2226ac22eac2c6d93c8ac855ecb5afa09ab6d83ab64ceb3b75c3": {
+      "notes": {
+        "zh-CN": {
+          "filename": "Expand-and-Prune.zh-CN.md",
+          "note_sha256": "e3432b6fda452d22461c1a5b0633bcd5a7a37118e9c4da6607944d142ba670f3"
+        }
+      },
+      "note_stem": "Expand-and-Prune",
+      "asset_subdir": "images",
+      "arxiv_id": "2610.23262v1",
+      "source_url": "https://arxiv.org/abs/2610.23262",
+      "pdf_url": "https://arxiv.org/pdf/2610.23262.pdf"
+    }
+  }
+}

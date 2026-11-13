@@ -1,0 +1,38 @@
+{
+  "artifact_type": "deeppapernote_paper_directory",
+  "schema_version": 2,
+  "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+  "note_stem": "DA-WAM",
+  "work": {
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+    "identifiers": {
+      "arxiv": "2608.19085"
+    },
+    "provenance": {
+      "arxiv": [
+        {
+          "kind": "canonical_identity",
+          "source_url": "http://arxiv.org/abs/2608.19085"
+        },
+        {
+          "kind": "pdf_first_page",
+          "source_sha256": "73d3a75107469f3e24ad4305b86ebfaa38733f275fb783dc6414ce713fa29f7a"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "73d3a75107469f3e24ad4305b86ebfaa38733f275fb783dc6414ce713fa29f7a": {
+      "notes": {
+        "zh-CN": {
+          "filename": "DA-WAM.zh-CN.md",
+          "note_sha256": "1350889cbcc91d4af211e17a128f48a6d49c22b80330ba78ed7564e3d22fec43"
+        }
+      },
+      "note_stem": "DA-WAM",
+      "asset_subdir": "images",
+      "arxiv_id": "2608.19085v2",
+      "source_url": "https://arxiv.org/abs/2608.19085v2"
+    }
+  }
+}
